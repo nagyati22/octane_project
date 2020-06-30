@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="OctanePluginConnectionSettings" Url="https://stowoctav01v.eame.agcocorp.com:8443" SharedSpace="1001" WorkSpace="1002" User="hunnta" SSO="false" />
+  <component name="OctanePluginState" SELECTED_TAB="{&quot;entityType&quot;:&quot;GHERKIN_TEST&quot;,&quot;entityName&quot;:&quot;SAP GUI Login Test&quot;,&quot;id&quot;:1002}" SEARCH_HISTORY="{&quot;SEARCH_HISTORY&quot;:[]}" OPEN_TABS="{&quot;openDetailTabs&quot;:[{&quot;entityType&quot;:&quot;USER_STORY&quot;,&quot;entityName&quot;:&quot;SAP GUI Login&quot;,&quot;id&quot;:2002},{&quot;entityType&quot;:&quot;GHERKIN_TEST&quot;,&quot;entityName&quot;:&quot;SAP GUI Login Test&quot;,&quot;id&quot;:1002}]}" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="14.0.1" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
