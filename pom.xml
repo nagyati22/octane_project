@@ -10,6 +10,8 @@
 
   <properties>
     <serenity.cucumber.version>1.9.20</serenity.cucumber.version>
+    <maven.compiler.source>7.1</maven.compiler.source>
+    <maven.compiler.target>7.1</maven.compiler.target>
   </properties>
 
   <dependencies>
@@ -29,6 +31,5 @@
       <version>0.1.0-1</version>
     </dependency>
   </dependencies>
-
 
 </project>
