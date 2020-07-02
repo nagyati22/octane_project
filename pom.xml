@@ -42,27 +42,12 @@
       <version>1.2.5</version>
     </dependency>
 
-    <dependency>
-      <groupId>com.hp.lft</groupId>
-      <artifactId>sdk</artifactId>
-    </dependency>
+
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.12</version>
       <scope>test</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.hp.lft</groupId>
-      <artifactId>report</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>com.hp.lft</groupId>
-      <artifactId>unittesting</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>com.hp.lft</groupId>
-      <artifactId>verifications</artifactId>
     </dependency>
     <dependency>
       <groupId>org.hamcrest</groupId>
