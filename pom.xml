@@ -30,6 +30,11 @@
       <artifactId>winium-webdriver</artifactId>
       <version>0.1.0-1</version>
     </dependency>
+      <dependency>
+        <groupId>com.hpe.alm.octane</groupId>
+        <artifactId>octane-cucumber-jvm</artifactId>
+        <version>12.60.48</version>
+      </dependency>
   </dependencies>
 
 </project>
