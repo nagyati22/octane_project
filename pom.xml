@@ -30,19 +30,16 @@
       <artifactId>winium-webdriver</artifactId>
       <version>0.1.0-1</version>
     </dependency>
-      <dependency>
-        <groupId>com.hpe.alm.octane</groupId>
-        <artifactId>octane-cucumber-jvm</artifactId>
-        <version>12.60.48</version>
-      </dependency>
-
+    <dependency>
+      <groupId>com.hpe.alm.octane</groupId>
+      <artifactId>octane-cucumber-jvm</artifactId>
+      <version>12.55.7</version>
+    </dependency>
     <dependency>
       <groupId>info.cukes</groupId>
       <artifactId>cucumber-junit</artifactId>
       <version>1.2.5</version>
     </dependency>
-
-
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
@@ -54,6 +51,16 @@
       <artifactId>hamcrest-all</artifactId>
       <version>1.3</version>
       <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>info.cukes</groupId>
+      <artifactId>cucumber-junit</artifactId>
+      <version>1.2.5</version>
+    </dependency>
+    <dependency>
+      <groupId>info.cukes</groupId>
+      <artifactId>cucumber-java</artifactId>
+      <version>1.2.5</version>
     </dependency>
   </dependencies>
 

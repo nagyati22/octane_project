@@ -1,12 +1,12 @@
 package bdd.octane;
 
+import com.hpe.alm.octane.OctaneCucumber;
+import cucumber.api.CucumberOptions;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import cucumber.api.CucumberOptions;
-import com.hpe.alm.octane.OctaneCucumber;
 
 @RunWith(OctaneCucumber.class)
-@CucumberOptions(features = {"src/main/resources/features"},
+@CucumberOptions(features = {"src/test/resources"},
     plugin = {"pretty",
         "json:RunResult/cucumber.json",
         "junit:RunResult/cucumber.xml",
